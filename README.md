@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Adoche Onaji
-- 👀 I’m interested in robotics and automation
-- 🌱 I’m currently learning c++, web development and embedded syste
-- 📫 How to reach me-08130568120
+- 👀 My reserarch area is embedded systems, robotics and automation
+- 🌱 I’m currently learning c++ and python, web development and embedded system. 
+- 🧚I am open to mentorship 
+- 📫 How to reach me-08130568120, linkedIn: Adoche Onaji, 
 
 <!---
 Dochie/Dochie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
